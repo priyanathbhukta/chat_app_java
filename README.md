@@ -54,7 +54,7 @@ If running on separate machines, update the IP in Client.java.
 ### 📸 Screenshots
 | Client UI | Server UI |
 |-----------|-----------|
-| ![Client](./Screenshots/Client_ss.jpg) | ![Server](./Screenshots/Server__ss.jpg) |
+| ![Client](./Screenshots/Client_ss.jpg) | ![Server](./Screenshots/Server_ss.jpg) |
 
 ### ⚙️ Code Highlights
 
