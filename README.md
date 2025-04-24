@@ -57,27 +57,30 @@ If running on separate machines, update the IP in Client.java.
 | ![Client](./Screenshots/Client_ss.jpg) | ![Server](./Screenshots/Server__ss.jpg) |
 
 ### ⚙️ Code Highlights
--BufferedReader and PrintWriter for stream communication.
 
--Threads for asynchronous reading (real-time chat).
+- BufferedReader and PrintWriter for stream communication.
 
--Key event listener to detect the Enter key (KeyCode 10).
+- Threads for asynchronous reading (real-time chat).
 
--UI enhancements using LineBorder, ImageIcon, and CompoundBorder.
+- Key event listener to detect the Enter key (KeyCode 10).
+
+- UI enhancements using LineBorder, ImageIcon, and CompoundBorder.
 
 ### 🔮 Future Enhancements
--Multi-client support (using threads or thread pool).
 
--Add usernames and timestamps.
+- Multi-client support (using threads or thread pool).
 
--Persistent chat logs.
+- Add usernames and timestamps.
 
--Emoji and file sharing support.
+- Persistent chat logs.
 
--Dark/light theme toggle.
+- Emoji and file sharing support.
+
+- Dark/light theme toggle.
 
 
-🧑‍💻 Author
-Priyanath Bhukta
-GitHub Profile
+## 🧑‍💻 Author
+
+**[Priyanath Bhukta](https://github.com/priyanathbhukta)**
+
 
